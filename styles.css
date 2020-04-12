@@ -1,0 +1,38 @@
+h3 {
+  text-transform: uppercase;
+  margin: 5px auto 10px;
+}
+
+img {
+  border: 3px solid #d9dbda;
+  border-style: outset;
+  margin: auto;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 310px;
+  border: 1px solid #d9dbda;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 10px 10px 5px #DAE6EF;
+  background-color: #F7F1EC;
+}
+
+.info {
+  display: inline-block;
+  flex-wrap: wrap;
+  width: 280px;
+  border: 1px solid #d9dbda;
+  margin: 10px auto 5px;
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+
+}
+span {
+  font-weight: bold;
+}
